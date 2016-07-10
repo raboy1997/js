@@ -1,0 +1,17 @@
+.color1 , .color2 , .box {
+	    background-color: #FF0000;
+    width: 100px;
+    height: 100px;
+   margin-bottom: 10px;
+}
+
+.color2 {
+	    background-color: #7FFF00;
+ 
+
+}
+
+.box{
+	    background-color: #4B0082;
+ 
+}
